@@ -83,8 +83,8 @@
 
 ### 📜 Certifications
 
-- 🟢 **NVIDIA** — Getting Started with AI on Jetson Nano
-- 🟢 **NVIDIA** — Develop, Customize and Publish in Omniverse with Extensions
+- 🟢 **NVIDIA** — [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/certificates?id=JLIBEZPlRly3TEEt-VnpUA) — Certificate ID: `_SMMCkJuTvGTGRZ4HPswog` · Issued March 5, 2026
+- 🟢 **NVIDIA** — [Develop, Customize and Publish in Omniverse with Extensions](https://learn.nvidia.com/certificates?id=D5DJKNBOShiSg3gvXSeoow) — Certificate ID: `Lr1_PJ8VSFu4MUHH-23M6A` · Issued March 12, 2026
 - 🟢 **Deep Learning with TensorFlow**
 - 🟢 **AI World** — NXT WAVE
 - 🟢 **Python Workshop**
