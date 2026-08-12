@@ -19,11 +19,10 @@
 
 - 🎓 B.E. in Artificial Intelligence and Machine Learning — PES Institute of Technology and Management (VTU), 2026
 - 💼 Former Trainee AI Engineer Intern at **Inventeron Technologies LLP, Bengaluru**
-- 🔭 Currently building **CareerPilot AI** — an AI-powered resume analyzer and career assistant
+- 🔭 Currently building **[CareerPilot AI](https://github.com/Md-nawaz17/CareerPilot-AI)** — a production-ready AI resume analyzer with ATS scoring and JD matching
 - 🌱 Learning **FastAPI, Docker, CI/CD, and LLM integrations**
 - 🤝 Open to **AI/ML Engineer, Full Stack Developer, and Software Engineer** roles
 - 📫 Reach me at **mdjob1712@gmail.com**
-- ⚡ Fun fact: I built a resume analyzer that scores resumes — and used it to improve my own resume
 
 ---
 
@@ -32,9 +31,8 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **AI / ML**
 
@@ -48,7 +46,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 **Backend & Database**
 
@@ -57,27 +55,26 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Tools & Platforms**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| [CareerPilot AI](https://github.com/Md-nawaz17/CareerPilot-AI) | AI-powered resume analyzer with ATS scoring, JD matching, and cover letter generation | React, TypeScript, FastAPI, Python | [Live](https://md-nawaz17.github.io/CareerPilot-AI/) |
-| [StockPilot](https://github.com/Md-nawaz17/smart-inventory-management-system) | Full-stack MERN inventory dashboard with JWT auth, analytics, and Excel export | React, Node.js, MongoDB | Coming Soon |
-| Personal Financial Analyzer | ML analytics tool using Random Forest, K-Means, ARIMA — built at Inventeron Technologies | Python, Streamlit, MySQL | Internship Project |
-| AI IoT Battery System | Smart battery health monitoring with IoT sensors and ML prediction | Python, Raspberry Pi, Firebase | Final Year Project |
+**[CareerPilot AI](https://github.com/Md-nawaz17/CareerPilot-AI)** — [Live Demo](https://md-nawaz17.github.io/CareerPilot-AI/)
+Production-ready AI resume analyzer with ATS scoring, job-description matching, recruiter insights, and a SaaS-style dashboard. Resume upload/parsing for PDF, DOCX, and plain text.
+`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Python` `Docker`
+
+**[Smart Inventory Management System](https://github.com/Md-nawaz17/smart-inventory-management-system)**
+Full-stack MERN inventory dashboard with full CRUD, real-time analytics charts, low-stock alerts, Excel export, and dark/light mode.
+`React` `Node.js` `Express.js` `MongoDB` `Recharts`
 
 ---
 
