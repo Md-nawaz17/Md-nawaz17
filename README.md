@@ -26,19 +26,19 @@ Open to **AI/ML Engineer**, **Full Stack Developer**, and **Software Engineer** 
 **Frontend** &nbsp; `React` `Vite` `Tailwind CSS`
 **Backend** &nbsp; `Node.js` `Express.js` `FastAPI`
 **Database** &nbsp; `MongoDB` `MySQL`
-**Tools** &nbsp; `Docker` `Git` `Vercel` `Render`
+**Tools** &nbsp; `Docker` `Git` `Vercel`
 
 ---
 
 ### Projects
 
 **[CareerPilot AI](https://github.com/Md-nawaz17/CareerPilot-AI)** · [Live Demo](https://md-nawaz17.github.io/CareerPilot-AI/)
-AI-powered resume analyzer with ATS scoring, job-description matching, and a SaaS-style dashboard.
-`React` `TypeScript` `Python` `FastAPI` `Docker`
+AI-powered resume analysis with ATS scoring, job matching, and tailored cover-letter generation.
+`React` `TypeScript` `Python` `FastAPI`
 
 **[StockPilot](https://github.com/Md-nawaz17/smart-inventory-management-system)** · [Live Demo](https://stockpilot-im-app.vercel.app/login)
-Full-stack inventory platform with JWT auth, real-time analytics, and low-stock alerts.
-`React` `Node.js` `Express.js` `MongoDB`
+Full-stack inventory management dashboard with JWT authentication, real-time analytics, and low-stock alerts.
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -49,8 +49,3 @@ Full-stack inventory platform with JWT auth, real-time analytics, and low-stock 
 - Deep Learning with TensorFlow · AI World (NXT WAVE) · Python Workshop
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Md-nawaz17&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-nawaz17&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
