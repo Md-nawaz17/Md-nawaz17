@@ -30,15 +30,15 @@ Open to **AI/ML Engineer**, **Full Stack Developer**, and **Software Engineer** 
 
 ---
 
-### Projects
+### Featured Projects
 
 **[CareerPilot AI](https://github.com/Md-nawaz17/CareerPilot-AI)** · [Live Demo](https://md-nawaz17.github.io/CareerPilot-AI/)
-AI-powered resume analysis with ATS scoring, job matching, and tailored cover-letter generation.
+AI-powered resume ATS scoring, job matching, and cover letter generation.
 `React` `TypeScript` `Python` `FastAPI`
 
-**[StockPilot](https://github.com/Md-nawaz17/smart-inventory-management-system)** · [Live Demo](https://stockpilot-im-app.vercel.app/login)
-Full-stack inventory management dashboard with JWT authentication, real-time analytics, and low-stock alerts.
-`React.js` `Node.js` `Express.js` `MongoDB`
+**[StockPilot — Smart Inventory Management System](https://github.com/Md-nawaz17/smart-inventory-management-system)** · [Live Demo](https://stockpilot-im-app.vercel.app/login)
+Full-stack inventory management dashboard with authentication and real-time analytics.
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT auth`
 
 ---
 
